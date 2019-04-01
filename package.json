@@ -6,6 +6,6 @@
   "author": "Heikki Niiranen <heikki.niiranen@rohea.com>",
   "license": "MIT",
   "dependencies": {
-    "local-dependency": "./modules/local-dependency"
+    "local-dependency": "./symlink-to-local-dependency"
   }
 }
