@@ -1,0 +1,11 @@
+{
+  "name": "yarn-path-install-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hniirane/yarn-path-install-bug.git",
+  "author": "Heikki Niiranen <heikki.niiranen@rohea.com>",
+  "license": "MIT",
+  "dependencies": {
+    "local-dependency": "./modules/local-dependency"
+  }
+}
